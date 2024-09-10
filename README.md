@@ -33,5 +33,3 @@ Contribute to the software development community together </br>
 [![](https://visitcount.itsvg.in/api?id=HangNguyen&icon=5&color=4)](https://visitcount.itsvg.in)
 
 ---
-
-Feel free to copy and use this version in your profile!
