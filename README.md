@@ -1,15 +1,8 @@
-Here is the updated version of your GitHub profile content with your name changed to "HangNguyen":
-
----
-
 # 💫About Me :
 ### Hi, I'm Hang Nguyen,  </br>
 A passionate and creative programmer. </br>
 I create projects and share code on GitHub.  </br>
 I love building web applications and software,  </br>
-Always seeking opportunities to learn and develop my skills.  </br>
-Let's create innovative solutions and  </br>
-Contribute to the software development community together </br>
 
 # 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hang8228?mibextid=LQQJ4d) 
