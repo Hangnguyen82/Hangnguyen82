@@ -1,6 +1,5 @@
 # Hi there, I'm Nguyễn Thị Hằng!  
-![duck-loading](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
+![Internet Slow](images/internet-slow.gif)
 # 🌟 About Me  
 👩‍💻 I’m passionate about Backend Development and Database Systems.  
 🌱 Currently working with C#, .NET, and exploring Neo4j and SQL Server.  
