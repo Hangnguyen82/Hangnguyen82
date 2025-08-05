@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyễn Thị Hằng!  
 <p align="center">
-  <img src="images/internet-slow.gif" alt="Internet Slow">
+  <img src="images/biercelona-beer.gif" alt="Biercelona Beer" />
 </p>
 
 # 🌟 About Me  
