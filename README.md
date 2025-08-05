@@ -1,10 +1,5 @@
 # Hi there, I'm Nguyễn Thị Hằng!  
-![Internet Slow](images/internet-slow.gif)
-<<<<<<< HEAD
-=======
-
->>>>>>> f52ebc4 (WIP: save changes before pulling)
-
+![Biercelona Beer](images/biercelona-beer.gif)
 # 🌟 About Me  
 👩‍💻 I’m passionate about Backend Development and Database Systems.  
 🌱 Currently working with C#, .NET, and exploring Neo4j and SQL Server.  
