@@ -1,5 +1,8 @@
 # Hi there, I'm Nguyễn Thị Hằng!  
-![Biercelona Beer](images/biercelona-beer.gif)
+<p align="center">
+  <img src="images/internet-slow.gif" alt="Internet Slow">
+</p>
+
 # 🌟 About Me  
 👩‍💻 I’m passionate about Backend Development and Database Systems.  
 🌱 Currently working with C#, .NET, and exploring Neo4j and SQL Server.  
