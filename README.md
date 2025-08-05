@@ -1,5 +1,9 @@
 # Hi there, I'm Nguyễn Thị Hằng!  
 ![Internet Slow](images/internet-slow.gif)
+<<<<<<< HEAD
+=======
+
+>>>>>>> f52ebc4 (WIP: save changes before pulling)
 
 # 🌟 About Me  
 👩‍💻 I’m passionate about Backend Development and Database Systems.  
