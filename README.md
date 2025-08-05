@@ -17,7 +17,7 @@
 
 | **Databases** | 
 |---------------|
-| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) |  |
+| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=plastic&logo=mongodb&logoColor=white) |
 
 ---
 
