@@ -33,4 +33,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=HangNguyen&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HangNguyen&icon=5&color=4)](https://visitcount.itsvg.in
+
+---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HangNguyen&theme=omni&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=HangNguyen&theme=omni&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HangNguyen&theme=omni&hide_border=false&layout=compact)
