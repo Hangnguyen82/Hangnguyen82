@@ -35,9 +35,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=HangNguyen&icon=5&color=4)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
-
+## 📈 GitHub Contributions Overview
 ![](https://github-readme-stats.vercel.app/api?username=Hangnguyen82&theme=omni&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hangnguyen82&theme=omni&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hangnguyen82&theme=omni&hide_border=false&layout=compact)
+
 
