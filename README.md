@@ -11,7 +11,6 @@
 👩‍💻 I'm passionate about **Backend Development** and **Database Systems**.  
 🌱 Currently working with **C#**, **.NET**, and exploring **Neo4j**, **SQL Server**, and **Python**.  
 🤝 Open to collaborating on **.NET projects** and **data-driven applications**.  
-📫 Reach out via email or connect with me on Facebook!
 
 ---
 
